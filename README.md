@@ -22,7 +22,7 @@ The dataset contains a rich set of audio and metadata features for various songs
 
  Objective
 
-To identify **key characteristics of viral songs** based on their audio features and metadata. Specifically, we define:
+To identify key characteristics of viral songs** based on their audio features and metadata. Specifically, we define:
 - **Viral Song** → Popularity ≥ 80
 - **Non-Viral Song** → Popularity < 80
 
@@ -50,10 +50,7 @@ Technologies Used
 - Correlation heatmap
 - Genre-wise breakdown of viral songs
 
-### 3. (Optional)  Classification Model
-- Logistic Regression or Decision Tree
-- Predict whether a song will be viral based on its features
-- Evaluate with accuracy, precision, recall
+
 
 ---
 
@@ -63,3 +60,17 @@ Technologies Used
 - High **positiveness** and **low instrumentalness** are often common
 - Explicit content slightly correlates with virality in certain genres
 - Certain genres dominate the viral space (e.g., Pop, Hip-Hop)
+
+Key Output SnapShots:![output_11](https://github.com/user-attachments/assets/09f5e826-f7ea-46a5-a410-714faaeb0594)
+![output_10](https://github.com/user-attachments/assets/1b21aec0-9c3b-4c30-9d41-5635d329b5f0)
+![output_9](https://github.com/user-attachments/assets/90c7e06c-0ba6-4f4c-9273-c026d1d09cbe)
+![output_8](https://github.com/user-attachments/assets/bb7024ed-8f23-471b-9817-6ac3f5555e79)
+![output_7](https://github.com/user-attachments/assets/3fa80106-cac5-47b9-a24a-ca0611ace1fa)
+![output_6](https://github.com/user-attachments/assets/929e8494-0a16-406f-b3b8-952b5ffbebbf)
+![output_5](https://github.com/user-attachments/assets/9ccbaa8b-0f56-461f-82b5-a168c81a0d46)
+![output_4](https://github.com/user-attachments/assets/a318edf5-69de-4dae-aaff-b3c955d11dde)
+![output_3](https://github.com/user-attachments/assets/9411864f-2d1e-463f-818d-86c498234131)
+![output_2](https://github.com/user-attachments/assets/e4daa586-fb5f-4d39-81a4-de46dc4d3ddd)
+![output_1](https://github.com/user-attachments/assets/483e188f-c5a9-4e0a-9c17-f159f991afdf)
+
+
